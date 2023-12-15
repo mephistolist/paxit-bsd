@@ -34,7 +34,7 @@ Would you like to proceed? [Y/N] <br>
 
 After this you should find any binaries in the folders of your $PATH will have the following flags from paxctl applied:
 
-$ paxctl -v /bin/bash                
+$ paxctl -v /bin/ls              
 PaX control v0.9
 Copyright 2004,2005,2006,2007,2009,2010,2011,2012,2014 PaX Team <pageexec@freemail.hu> <br>
 
