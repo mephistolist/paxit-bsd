@@ -5,7 +5,7 @@ https://github.com/mephistolist/paxit
 
 Project only has two dependencies with BSD environments. One is paxctl which I made compatible with BSD here:
 
-https://github.com/mephistolist/paxctl-on-BSD
+https://github.com/mephistolist/paxctl
 
 It also requires that you install the 'rust' port or pkg.
 
